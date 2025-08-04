@@ -1,4 +1,4 @@
-# vuepress-plugin-google-adsense2
+# vuepress-plugin-google-adsense3
 
 English | [简体中文](README-zh_CN.md)
 
@@ -6,20 +6,20 @@ English | [简体中文](README-zh_CN.md)
 
 [Google adsense](https://www.google.com/adsense) plugin for VuePress 2, automatically add [Google Ad](<(https://support.google.com/adsense/answer/9261306)>) to your VuePress site.
 
-[![npm](https://img.shields.io/npm/v/vuepress-plugin-google-adsense2.svg)](https://www.npmjs.com/package/vuepress-plugin-google-adsense2) [![GitHub license](https://img.shields.io/github/license/John60676/vuepress-plugin-google-adsense2.svg)](https://github.com/John60676/vuepress-plugin-google-adsense2/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/vuepress-plugin-google-adsense3.svg)](https://www.npmjs.com/package/vuepress-plugin-google-adsense3) [![GitHub license](https://img.shields.io/github/license/John60676/vuepress-plugin-google-adsense3.svg)](https://github.com/John60676/vuepress-plugin-google-adsense3/blob/master/LICENSE)
 
 ## Install
 
 ```sh
-yarn add -D vuepress-plugin-google-adsense2
+yarn add -D vuepress-plugin-google-adsense3
 # OR
-npm install -D vuepress-plugin-google-adsense2
+npm install -D vuepress-plugin-google-adsense3
 ```
 
 ## Usage
 
 ```js
-import googleAdSensePlugin from 'vuepress-plugin-google-adsense2';
+import googleAdSensePlugin from 'vuepress-plugin-google-adsense3';
 
 module.exports = {
   plugins: [

@@ -1,4 +1,4 @@
-# vuepress-plugin-google-adsense2
+# vuepress-plugin-google-adsense3
 
 [English](./README.md) | 简体中文
 
@@ -6,20 +6,20 @@
 
 VuePress 2 的 [Google adsense](https://www.google.com/adsense) 插件, 自动帮你在你的 VuePress 站点上添加[谷歌广告](https://support.google.com/adsense/answer/9261306)。
 
-[![npm](https://img.shields.io/npm/v/vuepress-plugin-google-adsense2.svg)](https://www.npmjs.com/package/vuepress-plugin-google-adsense2) [![GitHub license](https://img.shields.io/github/license/John60676/vuepress-plugin-google-adsense2.svg)](https://github.com/John60676/vuepress-plugin-google-adsense2/blob/master/LICENSE)
+[![npm](https://img.shields.io/npm/v/vuepress-plugin-google-adsense3.svg)](https://www.npmjs.com/package/vuepress-plugin-google-adsense3) [![GitHub license](https://img.shields.io/github/license/John60676/vuepress-plugin-google-adsense3.svg)](https://github.com/John60676/vuepress-plugin-google-adsense3/blob/master/LICENSE)
 
 ## 安装
 
 ```sh
-yarn add -D vuepress-plugin-google-adsense2
+yarn add -D vuepress-plugin-google-adsense3
 # 或者
-npm install -D vuepress-plugin-google-adsense2
+npm install -D vuepress-plugin-google-adsense3
 ```
 
 ## 用法
 
 ```js
-import googleAdSensePlugin from 'vuepress-plugin-google-adsense2';
+import googleAdSensePlugin from 'vuepress-plugin-google-adsense3';
 
 module.exports = {
   plugins: [

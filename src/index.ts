@@ -10,7 +10,7 @@ const __dirname = getDirname(import.meta.url);
 export const googleAdSensePlugin = ({
   id,
 }: GoogleAdSensePluginOptions): Plugin => ({
-  name: 'vuepress-plugin-google-adsense2',
+  name: 'vuepress-plugin-google-adsense3',
   clientConfigFile: path.resolve(__dirname, './clientAppEnhanceFiles.js'),
 
   define: {

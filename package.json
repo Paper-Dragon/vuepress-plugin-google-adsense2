@@ -1,5 +1,5 @@
 {
-  "name": "vuepress-plugin-google-adsense2",
+  "name": "vuepress-plugin-google-adsense3",
   "version": "1.0.4",
   "license": "MIT",
   "description": "VuePress 2 plugin - google-Adsense",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/John60676/vuepress-plugin-google-adsense2.git"
+    "url": "https://github.com/Paper-Dragon/vuepress-plugin-google-adsense3.git"
   },
   "type": "module",
   "main": "dist/index.js",
